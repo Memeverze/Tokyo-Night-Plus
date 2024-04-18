@@ -56,8 +56,9 @@
   --header-secondary: var(--text-muted);
 
   /*  Text Color  */
-  --text-normal: #b1bae6;
-  --text-muted: #565f89;
+  --text-normal: #8d96a6;
+  --text-muted: #2b2e33;
+  --text-link: #00c954;
   --interactive-normal: #5f647e;
   --interactive-hover: #a2a6c2;
   --interactive-active: #b5bad1;
